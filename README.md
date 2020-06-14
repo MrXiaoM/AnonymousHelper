@@ -1,5 +1,6 @@
 # AnonymousHelper
 欢迎使用匿名者工具组
+Make by 匿名者科技
 
 ## 这是啥?  
 匿名者工具组是在Minecraft中的一个辅助mod，  
